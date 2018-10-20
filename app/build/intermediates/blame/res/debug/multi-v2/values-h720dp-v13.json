@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mitgreene-c\\Desktop\\AndroidStudioProjects\\CardViewPractice\\CardViewPractice-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mitgreene-c\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\573d5601cd38a8d5073466c146bba120\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
