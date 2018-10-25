@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\mitgreene-c\\Desktop\\AndroidStudioProjects\\CardViewPractice\\CardViewPractice-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
+            "outputFile": "C:\\Users\\Ian\\Desktop\\AndroidStudioProjects\\CardViewPractice2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mitgreene-c\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\573d5601cd38a8d5073466c146bba120\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\Ian\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b2248e8ca1661f4614ef53b2cbbdb049\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mitgreene-c\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8fc73599b9db4d5b28284bf62490fd87\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\Ian\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\4d0e79bc08829a6728759bc47e368f3d\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
