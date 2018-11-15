@@ -46,18 +46,17 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int gridColumnCount = getResources().getInteger(R.integer.grid_column_count);
 
-        // Initialize the RecyclerView.
-        mRecyclerView = findViewById(R.id.recyclerView);
-
-        // Set the Layout Manager.
-        mRecyclerView.setLayoutManager(new GridLayoutManager(this, gridColumnCount));
-
         // Initialize the ArrayList that will contain the data.
         mSportsData = new ArrayList<>();
 
-        // Initialize the adapter and set it to the RecyclerView.
+        // Initialize the RecyclerView + Adapter
+        mRecyclerView = findViewById(R.id.recyclerView);
         mAdapter = new SportsAdapter(this, mSportsData);
+        // Set adapter to the RecyclerView
         mRecyclerView.setAdapter(mAdapter);
+
+        // Set the Layout Manager.
+        mRecyclerView.setLayoutManager(new GridLayoutManager(this, gridColumnCount));
 
         // Get the data.
         initializeData();
